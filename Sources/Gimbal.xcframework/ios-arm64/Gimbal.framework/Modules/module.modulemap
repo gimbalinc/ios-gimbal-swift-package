@@ -6,6 +6,6 @@ framework module Gimbal {
 }
 
 module Gimbal.Swift {
-    header "Gimbal-Swift.h"
-    requires objc
+  header "Gimbal-Swift.h"
+  requires objc
 }
