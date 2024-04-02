@@ -86,7 +86,7 @@
 		</data>
 		<key>Headers/Gimbal-Swift.h</key>
 		<data>
-		KR4R0XIMdMC+gvjThGyz7fdpMkA=
+		0YNMNo5cOlj7XdkHeQfJ8jheftA=
 		</data>
 		<key>Headers/Gimbal.h</key>
 		<data>
@@ -94,15 +94,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		bHlcSr6Qn/bohuW/C+tQxY4/Cyw=
+		BNH6KX9Skvtx4GDQxMCGF4tG8yw=
 		</data>
 		<key>MainStoryboard.storyboardc/12-view-13.nib</key>
 		<data>
-		mSW0R+iVRWildkcbj5cWtHhyHHs=
+		uSvqIPDvC9ky35iJoLIQ0snww38=
 		</data>
 		<key>MainStoryboard.storyboardc/21-view-22.nib</key>
 		<data>
-		JzMBGBVvv24ZSuh3Sy55+UtOtFE=
+		VaIuzwP1FwFWW5zst0y5Y0qffTI=
 		</data>
 		<key>MainStoryboard.storyboardc/Info.plist</key>
 		<data>
@@ -118,47 +118,47 @@
 		</data>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		Gtlo/vdxM8oroLAjYB0JQ2wYgDA=
+		7yA9SZXfBeCG6gfLtgUK665AkS4=
 		</data>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		WlbcedBmMIBl57Qp/xQ0T3UHWGE=
+		ooGgEszvFbixbiJJiqxxDs4LDCk=
 		</data>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		di+RxMhS70yzysjfkCZY+My5A2c=
+		5h3CtM3sUAGkiG3kdWY1h2qpPlc=
 		</data>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		WlbcedBmMIBl57Qp/xQ0T3UHWGE=
+		ooGgEszvFbixbiJJiqxxDs4LDCk=
 		</data>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		sQm4VteNnF6FjpGATTeEcyIN+zA=
+		wleqQO8tBKq5hj1zb0diMK6UB/Y=
 		</data>
 		<key>Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		Gtlo/vdxM8oroLAjYB0JQ2wYgDA=
+		7yA9SZXfBeCG6gfLtgUK665AkS4=
 		</data>
 		<key>Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		srEzQnPMn4kWKs3aXEcFFqX7I/w=
+		EkzsD982tJ+s0p8YZlxF4aS7F38=
 		</data>
 		<key>Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		fJOxBrZQeZYpUEQflBnPbUtVJRo=
+		Di/LuAFgwsmUJBtF1b+h2VGU3A8=
 		</data>
 		<key>Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		srEzQnPMn4kWKs3aXEcFFqX7I/w=
+		EkzsD982tJ+s0p8YZlxF4aS7F38=
 		</data>
 		<key>Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		0fO2XNihk9VZizblM4oUqTRdKCM=
+		aBG+j3w92Azh/PQf3Sksf0WlCKA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		4GpW99+I3OLKY2j+iJSv1gxowT8=
+		XLbMe8LRP+RjJpaT03z/MmrmqSU=
 		</data>
 		<key>PrivateHeaders/GMBLPlaceManager_Private.h</key>
 		<data>
@@ -327,7 +327,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			31BcMAdDZcskZRMiSNo9GXwPDDacVhyvXgdgWfWbgbE=
+			GdsevL9XWg2UHxpf5V1S5yRIK2v5oOIZsSKAuc9cT3s=
 			</data>
 		</dict>
 		<key>Headers/Gimbal.h</key>
@@ -341,14 +341,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BC3DsKu8IVDZFg0Ych+eOYSMvkZowio3ISYmUWQuFrg=
+			w/ucdS6IK//izDvOmGTesqzFbt/wzwCz5QMVt0tLlx8=
 			</data>
 		</dict>
 		<key>MainStoryboard.storyboardc/21-view-22.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DqQhWBuFXbLjt6+L+YQgQAJEhLpiGsf+NW1ikmXmFA4=
+			MNZd4vVplRSozChh11wHP7mK7Su9uDQuosbqSueVHEA=
 			</data>
 		</dict>
 		<key>MainStoryboard.storyboardc/Info.plist</key>
@@ -376,77 +376,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iRcDi879CqQcjE8SpsG0pgKVPors6vgvWfXeMvNdCDs=
+			dRPZz/aw855ioPDqf8SuySOFnTo3hh362J+KxeMVjuU=
 			</data>
 		</dict>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1t5obmF1cuNOIXho3GOapxIdfd25sxcDo0Br9eDxQf4=
+			mrLppzgWjy5CMc2gaR8MTUh/oyCW6CTIfha+xOfY/BY=
 			</data>
 		</dict>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7c0imjO0mtt6gGdo6QUG+JsZvZ/dfo5PSoBIEQG776k=
+			H8diA5stOlVMhtpCCuvmlKdNfkyqAfb+qtriAUW2FNA=
 			</data>
 		</dict>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1t5obmF1cuNOIXho3GOapxIdfd25sxcDo0Br9eDxQf4=
+			mrLppzgWjy5CMc2gaR8MTUh/oyCW6CTIfha+xOfY/BY=
 			</data>
 		</dict>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ar50ymVuVendfwvuzK7IyQgAyRkKFre+bOizy4YoFRI=
+			kDBKn68IwIqOCUorOIfq4wZVx29JpmDUHhedCHiHvXQ=
 			</data>
 		</dict>
 		<key>Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iRcDi879CqQcjE8SpsG0pgKVPors6vgvWfXeMvNdCDs=
+			dRPZz/aw855ioPDqf8SuySOFnTo3hh362J+KxeMVjuU=
 			</data>
 		</dict>
 		<key>Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BhpfDktC14Z179/OJt6Ese8En8KZhi93ReYD0ky0dX4=
+			x6S6+2O7RUt0Py1FnVjnAnb54gN3Gr2jU1pdr4jld0c=
 			</data>
 		</dict>
 		<key>Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iKXR8/P8KG0JIaI0q6X++3GzK9rhrOxxge8sFVUJtek=
+			feVQgaix2YLniH/+OLtbDQEluR/ioO8MG3TDX9nS5AY=
 			</data>
 		</dict>
 		<key>Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BhpfDktC14Z179/OJt6Ese8En8KZhi93ReYD0ky0dX4=
+			x6S6+2O7RUt0Py1FnVjnAnb54gN3Gr2jU1pdr4jld0c=
 			</data>
 		</dict>
 		<key>Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GajP3qPNvNKRbJTIUir5rexrkLpu8VRjX4rabh+/oyE=
+			2jm+WVsI6JD0J0cpZhEi8GZdsawdreCjKkQFfl9YZmI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			f+Ji53h7CO6FiPBEIjNyny/24QBC89dCzZsyN59jL4s=
+			4TFADHzMVe6sx8kloTPPnywQWH58ux0agFXBZvHNAO0=
 			</data>
 		</dict>
 		<key>PrivateHeaders/GMBLPlaceManager_Private.h</key>

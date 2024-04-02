@@ -364,7 +364,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "Decoder",
-                "printedName": "Swift.Decoder",
+                "printedName": "any Swift.Decoder",
                 "usr": "s:s7DecoderP"
               }
             ],
@@ -392,7 +392,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "Encoder",
-                "printedName": "Swift.Encoder",
+                "printedName": "any Swift.Encoder",
                 "usr": "s:s7EncoderP"
               }
             ],
@@ -904,6 +904,39 @@
             "fixedbinaryorder": 6
           },
           {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Gimbal.PickupState?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PickupState",
+                    "printedName": "Gimbal.PickupState",
+                    "usr": "c:@M@Gimbal@E@PickupState"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:6Gimbal11PickupStateO8rawValueACSgSi_tcfc",
+            "mangledName": "$s6Gimbal11PickupStateO8rawValueACSgSi_tcfc",
+            "moduleName": "Gimbal",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
             "kind": "Var",
             "name": "rawValue",
             "printedName": "rawValue",
@@ -941,39 +974,6 @@
                 "accessorKind": "get"
               }
             ]
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(rawValue:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Gimbal.PickupState?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "PickupState",
-                    "printedName": "Gimbal.PickupState",
-                    "usr": "c:@M@Gimbal@E@PickupState"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Int",
-                "printedName": "Swift.Int",
-                "usr": "s:Si"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "s:6Gimbal11PickupStateO8rawValueACSgSi_tcfc",
-            "mangledName": "$s6Gimbal11PickupStateO8rawValueACSgSi_tcfc",
-            "moduleName": "Gimbal",
-            "implicit": true,
-            "init_kind": "Designated"
           },
           {
             "kind": "Var",
@@ -1160,847 +1160,238 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceRepository.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceRepository.swift",
       "kind": "StringLiteral",
       "offset": 604,
       "length": 29,
       "value": "\"com.gimbal.pickupPlaceQueue\""
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceRepository.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceRepository.swift",
       "kind": "StringLiteral",
       "offset": 671,
       "length": 29,
       "value": "\"com.gimbal.pickupPlaceIdKey\""
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceRepository.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceRepository.swift",
       "kind": "StringLiteral",
       "offset": 735,
       "length": 13,
       "value": "\"com.gimbal.\""
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceRepository.swift",
-      "kind": "StringLiteral",
-      "offset": 1308,
-      "length": 45,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceRepository.swift",
-      "kind": "StringLiteral",
-      "offset": 1327,
-      "length": 1,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceRepository.swift",
-      "kind": "StringLiteral",
-      "offset": 1352,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceRepository.swift",
-      "kind": "StringLiteral",
-      "offset": 1898,
-      "length": 33,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceRepository.swift",
-      "kind": "StringLiteral",
-      "offset": 1917,
-      "length": 1,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceRepository.swift",
-      "kind": "StringLiteral",
-      "offset": 1930,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceRepository.swift",
-      "kind": "StringLiteral",
-      "offset": 2456,
-      "length": 33,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceRepository.swift",
-      "kind": "StringLiteral",
-      "offset": 2475,
-      "length": 1,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceRepository.swift",
-      "kind": "StringLiteral",
-      "offset": 2488,
-      "length": 12,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PolygonCalculator.swift",
-      "kind": "FloatLiteral",
-      "offset": 497,
-      "length": 5,
-      "value": "5e300"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PolygonCalculator.swift",
-      "kind": "IntegerLiteral",
-      "offset": 723,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PolygonCalculator.swift",
-      "kind": "IntegerLiteral",
-      "offset": 830,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PolygonCalculator.swift",
-      "kind": "IntegerLiteral",
-      "offset": 892,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PolygonCalculator.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1021,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PolygonCalculator.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1299,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PolygonCalculator.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1362,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PolygonCalculator.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1677,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PolygonCalculator.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1712,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PolygonCalculator.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2561,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PolygonCalculator.swift",
-      "kind": "FloatLiteral",
-      "offset": 2670,
-      "length": 11,
-      "value": "0.000000001"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PolygonCalculator.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2704,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PolygonCalculator.swift",
-      "kind": "FloatLiteral",
-      "offset": 2816,
-      "length": 11,
-      "value": "0.000000001"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PolygonCalculator.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2850,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PolygonCalculator.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2890,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PolygonCalculator.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3239,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PolygonCalculator.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3254,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PolygonCalculator.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3756,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PolygonCalculator.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3824,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
       "kind": "Dictionary",
       "offset": 436,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
       "kind": "BooleanLiteral",
       "offset": 556,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1175,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1735,
-      "length": 3,
-      "value": "500"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1840,
-      "length": 3,
-      "value": "400"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
-      "kind": "StringLiteral",
-      "offset": 2538,
-      "length": 60,
-      "value": "\"caught error: \""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
-      "kind": "StringLiteral",
-      "offset": 2561,
-      "length": 1,
-      "value": "\", about to delay for: \""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
-      "kind": "StringLiteral",
-      "offset": 2597,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
-      "kind": "StringLiteral",
-      "offset": 3191,
-      "length": 60,
-      "value": "\"caught error: \""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
-      "kind": "StringLiteral",
-      "offset": 3214,
-      "length": 1,
-      "value": "\", about to delay for: \""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
-      "kind": "StringLiteral",
-      "offset": 3250,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3649,
-      "length": 2,
-      "value": "93"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
-      "kind": "StringLiteral",
-      "offset": 4143,
-      "length": 20,
-      "value": "\"Publisher finished\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
-      "kind": "StringLiteral",
-      "offset": 4353,
-      "length": 17,
-      "value": "\"Value: \""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
-      "kind": "StringLiteral",
-      "offset": 4369,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
-      "kind": "Array",
-      "offset": 4487,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
-      "kind": "StringLiteral",
-      "offset": 4663,
-      "length": 8,
-      "value": "\"domain\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4679,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
-      "kind": "StringLiteral",
-      "offset": 4693,
-      "length": 13,
-      "value": "\"description\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
-      "kind": "StringLiteral",
-      "offset": 4708,
-      "length": 21,
-      "value": "\"unable to serialize\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
-      "kind": "StringLiteral",
-      "offset": 4885,
-      "length": 47,
-      "value": "\"Failed to load: \""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
-      "kind": "StringLiteral",
-      "offset": 4931,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5244,
-      "length": 1,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5276,
-      "length": 3,
-      "value": "243"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5335,
-      "length": 3,
-      "value": "243"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/NetworkService.swift",
       "kind": "StringLiteral",
       "offset": 187,
       "length": 14,
       "value": "\"Gimbal.NetworkService\""
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PendingStateChange.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PendingStateChange.swift",
       "kind": "BooleanLiteral",
       "offset": 283,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PendingStateChange.swift",
-      "kind": "StringLiteral",
-      "offset": 650,
-      "length": 11,
-      "value": "\"timestamp\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PendingStateChange.swift",
-      "kind": "StringLiteral",
-      "offset": 719,
-      "length": 13,
-      "value": "\"pickupState\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PendingStateChange.swift",
-      "kind": "StringLiteral",
-      "offset": 841,
-      "length": 11,
-      "value": "\"timestamp\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PendingStateChange.swift",
-      "kind": "StringLiteral",
-      "offset": 931,
-      "length": 13,
-      "value": "\"pickupState\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PendingStateChange.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PendingStateChange.swift",
       "kind": "StringLiteral",
       "offset": 175,
       "length": 18,
       "value": "\"Gimbal.PendingStateChange\""
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlace.swift",
-      "kind": "StringLiteral",
-      "offset": 1738,
-      "length": 12,
-      "value": "\"identifier\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlace.swift",
-      "kind": "StringLiteral",
-      "offset": 1766,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlace.swift",
-      "kind": "StringLiteral",
-      "offset": 1810,
-      "length": 16,
-      "value": "\"organizationId\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlace.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1839,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlace.swift",
-      "kind": "StringLiteral",
-      "offset": 1872,
-      "length": 6,
-      "value": "\"name\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlace.swift",
-      "kind": "StringLiteral",
-      "offset": 1894,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlace.swift",
-      "kind": "StringLiteral",
-      "offset": 1934,
-      "length": 21,
-      "value": "\"entryDelayInSeconds\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlace.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1968,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlace.swift",
-      "kind": "StringLiteral",
-      "offset": 2013,
-      "length": 16,
-      "value": "\"geoFenceCircle\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlace.swift",
-      "kind": "StringLiteral",
-      "offset": 2096,
-      "length": 17,
-      "value": "\"geoFencePolygon\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlace.swift",
-      "kind": "StringLiteral",
-      "offset": 2191,
-      "length": 8,
-      "value": "\"center\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlace.swift",
-      "kind": "StringLiteral",
-      "offset": 2282,
-      "length": 10,
-      "value": "\"latitude\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlace.swift",
-      "kind": "StringLiteral",
-      "offset": 2334,
-      "length": 11,
-      "value": "\"longitude\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlace.swift",
-      "kind": "StringLiteral",
-      "offset": 2531,
-      "length": 8,
-      "value": "\"radius\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlace.swift",
-      "kind": "StringLiteral",
-      "offset": 2600,
-      "length": 4,
-      "value": "\"id\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlace.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2617,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlace.swift",
-      "kind": "StringLiteral",
-      "offset": 2657,
-      "length": 6,
-      "value": "\"uuid\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlace.swift",
-      "kind": "StringLiteral",
-      "offset": 2679,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlace.swift",
-      "kind": "StringLiteral",
-      "offset": 2733,
-      "length": 11,
-      "value": "\"locations\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlace.swift",
-      "kind": "StringLiteral",
-      "offset": 2929,
-      "length": 10,
-      "value": "\"latitude\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlace.swift",
-      "kind": "StringLiteral",
-      "offset": 2975,
-      "length": 11,
-      "value": "\"longitude\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlace.swift",
-      "kind": "StringLiteral",
-      "offset": 3331,
-      "length": 12,
-      "value": "\"attributes\""
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupLocationServices.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupLocationServices.swift",
       "kind": "StringLiteral",
       "offset": 557,
       "length": 26,
       "value": "\"GMBLEntryNotificationKey\""
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupLocationServices.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupLocationServices.swift",
       "kind": "FloatLiteral",
       "offset": 772,
       "length": 3,
       "value": "2.0"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupLocationServices.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupLocationServices.swift",
       "kind": "BooleanLiteral",
       "offset": 819,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupLocationServices.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1414,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupLocationServices.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1612,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupLocationServices.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupLocationServices.swift",
       "kind": "StringLiteral",
       "offset": 183,
       "length": 22,
       "value": "\"Gimbal.PickupLocationServices\""
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupLocationServices.swift",
-      "kind": "Array",
-      "offset": 2207,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupLocationServices.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2830,
-      "length": 2,
-      "value": "-1"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupLocationServices.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupLocationServices.swift",
       "kind": "StringLiteral",
       "offset": 3832,
       "length": 22,
       "value": "\"GMBLPickupPlaceEntry\""
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
       "kind": "IntegerLiteral",
       "offset": 234,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
       "kind": "IntegerLiteral",
       "offset": 246,
       "length": 8,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
       "kind": "IntegerLiteral",
       "offset": 265,
       "length": 7,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
       "kind": "IntegerLiteral",
       "offset": 283,
       "length": 8,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
       "kind": "IntegerLiteral",
       "offset": 302,
       "length": 16,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
       "kind": "IntegerLiteral",
       "offset": 329,
       "length": 9,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
       "kind": "IntegerLiteral",
       "offset": 349,
       "length": 9,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
       "kind": "IntegerLiteral",
       "offset": 234,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
       "kind": "IntegerLiteral",
       "offset": 246,
       "length": 8,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
       "kind": "IntegerLiteral",
       "offset": 265,
       "length": 7,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
       "kind": "IntegerLiteral",
       "offset": 283,
       "length": 8,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
       "kind": "IntegerLiteral",
       "offset": 302,
       "length": 16,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
       "kind": "IntegerLiteral",
       "offset": 329,
       "length": 9,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupState.swift",
       "kind": "IntegerLiteral",
       "offset": 349,
       "length": 9,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceEvent.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 538,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceEvent.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 541,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceEvent.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 538,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceEvent.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 541,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceEvent.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 538,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceEvent.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/PickupPlaceEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 541,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/HighAccuracyFixProvider.swift",
-      "kind": "BooleanLiteral",
-      "offset": 746,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/HighAccuracyFixProvider.swift",
-      "kind": "IntegerLiteral",
-      "offset": 829,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/HighAccuracyFixProvider.swift",
-      "kind": "IntegerLiteral",
-      "offset": 901,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/HighAccuracyFixProvider.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1051,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/HighAccuracyFixProvider.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1294,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/HighAccuracyFixProvider.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1450,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/andrewtran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/HighAccuracyFixProvider.swift",
+      "filePath": "\/Users\/andrew.tran\/Desktop\/repos\/ios-sdk\/Gimbal-SDK\/Gimbal-SDK\/HighAccuracyFixProvider.swift",
       "kind": "StringLiteral",
       "offset": 403,
       "length": 23,
