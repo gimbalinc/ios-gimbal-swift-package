@@ -94,7 +94,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		BNH6KX9Skvtx4GDQxMCGF4tG8yw=
+		kjllduy0xgcwMz6G6NXNMYJ9Zks=
 		</data>
 		<key>MainStoryboard.storyboardc/12-view-13.nib</key>
 		<data>
@@ -134,7 +134,7 @@
 		</data>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		wleqQO8tBKq5hj1zb0diMK6UB/Y=
+		e3g4Zc7+xvj/Rsx81bLsIPVsDi0=
 		</data>
 		<key>Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -154,11 +154,15 @@
 		</data>
 		<key>Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		aBG+j3w92Azh/PQf3Sksf0WlCKA=
+		rt58uWgyAIyf3VBLyDn5nYdek0I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		XLbMe8LRP+RjJpaT03z/MmrmqSU=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		ETyVTC3qSYRWBGsVZiLBDTPvsV8=
 		</data>
 		<key>PrivateHeaders/GMBLPlaceManager_Private.h</key>
 		<data>
@@ -404,7 +408,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kDBKn68IwIqOCUorOIfq4wZVx29JpmDUHhedCHiHvXQ=
+			DnWYXWr7hOkibqacWeLDOCNQGBDgal2aenqwWIN0xTQ=
 			</data>
 		</dict>
 		<key>Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -439,7 +443,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2jm+WVsI6JD0J0cpZhEi8GZdsawdreCjKkQFfl9YZmI=
+			jcp/vaxaN+QxHQV6wu4zIxKIUW1YZ5vJUmY8Ed+gvmk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -447,6 +451,13 @@
 			<key>hash2</key>
 			<data>
 			4TFADHzMVe6sx8kloTPPnywQWH58ux0agFXBZvHNAO0=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			y740zUX1pjFtiX/m+/sjkDL0yilxqazajTEWqPvDGgo=
 			</data>
 		</dict>
 		<key>PrivateHeaders/GMBLPlaceManager_Private.h</key>
