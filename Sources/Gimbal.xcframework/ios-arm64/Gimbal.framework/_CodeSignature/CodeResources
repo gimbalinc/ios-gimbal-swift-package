@@ -86,7 +86,7 @@
 		</data>
 		<key>Headers/Gimbal-Swift.h</key>
 		<data>
-		VkHOo7ByF1BxCS9FlAbXovwkC64=
+		vRaGW10Y5MRSgL5ixkWZxsWNfVA=
 		</data>
 		<key>Headers/Gimbal.h</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8pN1Ot65msAOMrqGuqbjT3tHNjo=
+		zOF390WIIxdyO69dO1qlvjFAx7A=
 		</data>
 		<key>MainStoryboard.storyboardc/12-view-13.nib</key>
 		<data>
@@ -118,23 +118,23 @@
 		</data>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		7yA9SZXfBeCG6gfLtgUK665AkS4=
+		PGMEywgq0mA5GSoK79hLZmVDUpU=
 		</data>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		VCEeoq+TltofnPqXCNizhNSqUsI=
+		eWOro1yCaMWET7dYjbEE8GZi62s=
 		</data>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		KQTF6SPeC4jPl6vZimgiA8Ll5VI=
+		J2cfeB5blI5qBzA1llBaybVNPC8=
 		</data>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		VCEeoq+TltofnPqXCNizhNSqUsI=
+		eWOro1yCaMWET7dYjbEE8GZi62s=
 		</data>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		D5i5s/mtjat7LRM20ralNYFvh10=
+		TjsSrOrDrq+ar/+HsB0eQfBotiU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -311,7 +311,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EdVZaz8Q164T9wLenCEBQbIG4KsfIsHcls0map5vpdY=
+			daCr9CazYqDur/hqKv/LNUGk1n3N7xhJW59fIVoPGuE=
 			</data>
 		</dict>
 		<key>Headers/Gimbal.h</key>
@@ -360,35 +360,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dRPZz/aw855ioPDqf8SuySOFnTo3hh362J+KxeMVjuU=
+			hPYs9VMkCtY5+pbHRzZfG1ObbABjzaxRLyft8E065kc=
 			</data>
 		</dict>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g5SBH7v0jw3+J16tYrk8jdR5MTkpdlHbovC5YDt3m60=
+			vlqE7SOKbvzXFyrq9o97H3DvF8Puf/3PJSgmoGdD7Ho=
 			</data>
 		</dict>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			47NemMy7IWoIeehEgzwGj50lnL7oIaMF5MTSkey1K4c=
+			pEHz2KWeOTDiCIIVES4fQi00hQojjTbRMsGWrJ9lEP0=
 			</data>
 		</dict>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g5SBH7v0jw3+J16tYrk8jdR5MTkpdlHbovC5YDt3m60=
+			vlqE7SOKbvzXFyrq9o97H3DvF8Puf/3PJSgmoGdD7Ho=
 			</data>
 		</dict>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6GPlfwSmQSh74DyHpK37rHsSaRVuQNMfIndQAlzH1sI=
+			CPYlY7pcqz4eb/gXIrHs/HeRp9H0qeF3cyv65f59fSo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

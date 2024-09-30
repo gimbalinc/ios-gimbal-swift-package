@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64/Gimbal.framework/Gimbal</key>
 		<data>
-		Gix4va1pMbPxlgBkKQM+pTq2i7Q=
+		XOzQcz2a6joxNZ9qQjApP4zf0WM=
 		</data>
 		<key>ios-arm64/Gimbal.framework/Headers/GMBLAnalyticsManager.h</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>ios-arm64/Gimbal.framework/Headers/Gimbal-Swift.h</key>
 		<data>
-		VkHOo7ByF1BxCS9FlAbXovwkC64=
+		vRaGW10Y5MRSgL5ixkWZxsWNfVA=
 		</data>
 		<key>ios-arm64/Gimbal.framework/Headers/Gimbal.h</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>ios-arm64/Gimbal.framework/Info.plist</key>
 		<data>
-		8pN1Ot65msAOMrqGuqbjT3tHNjo=
+		zOF390WIIxdyO69dO1qlvjFAx7A=
 		</data>
 		<key>ios-arm64/Gimbal.framework/MainStoryboard.storyboardc/12-view-13.nib</key>
 		<data>
@@ -122,19 +122,27 @@
 		</data>
 		<key>ios-arm64/Gimbal.framework/Modules/Gimbal.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		7yA9SZXfBeCG6gfLtgUK665AkS4=
+		PGMEywgq0mA5GSoK79hLZmVDUpU=
 		</data>
 		<key>ios-arm64/Gimbal.framework/Modules/Gimbal.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		VCEeoq+TltofnPqXCNizhNSqUsI=
+		axEtRXnkYNv5BK4utVtCOcT2lxk=
+		</data>
+		<key>ios-arm64/Gimbal.framework/Modules/Gimbal.swiftmodule/arm64-apple-ios.private.swiftinterface-e</key>
+		<data>
+		eWOro1yCaMWET7dYjbEE8GZi62s=
 		</data>
 		<key>ios-arm64/Gimbal.framework/Modules/Gimbal.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		KQTF6SPeC4jPl6vZimgiA8Ll5VI=
+		J2cfeB5blI5qBzA1llBaybVNPC8=
 		</data>
 		<key>ios-arm64/Gimbal.framework/Modules/Gimbal.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		VCEeoq+TltofnPqXCNizhNSqUsI=
+		axEtRXnkYNv5BK4utVtCOcT2lxk=
+		</data>
+		<key>ios-arm64/Gimbal.framework/Modules/Gimbal.swiftmodule/arm64-apple-ios.swiftinterface-e</key>
+		<data>
+		eWOro1yCaMWET7dYjbEE8GZi62s=
 		</data>
 		<key>ios-arm64/Gimbal.framework/Modules/module.modulemap</key>
 		<data>
@@ -144,25 +152,13 @@
 		<data>
 		ETyVTC3qSYRWBGsVZiLBDTPvsV8=
 		</data>
-		<key>ios-arm64/Gimbal.framework/PrivateHeaders/GMBLPlaceManager_Private.h</key>
-		<data>
-		g64ZbP2TQwf868/bs83yJGD+q9w=
-		</data>
-		<key>ios-arm64/Gimbal.framework/PrivateHeaders/GMBLPlaceRepository.h</key>
-		<data>
-		sUoJ0vyZoFCAqng0xDGBuCDbnRM=
-		</data>
-		<key>ios-arm64/Gimbal.framework/PrivateHeaders/QLPolygonCalculator.h</key>
-		<data>
-		9w+e4wJ+1mKo6THZocY/cLjHP+M=
-		</data>
 		<key>ios-arm64/Gimbal.framework/Release.xcconfig</key>
 		<data>
 		AUUr0k3OKT7Qero79yq9wUjxtuw=
 		</data>
 		<key>ios-arm64/Gimbal.framework/_CodeSignature/CodeResources</key>
 		<data>
-		Qa2IqtcCXOEj/QBzrLhRFFz2WaU=
+		c7EFS5RJ9Ln+/04PrQuk43eoA14=
 		</data>
 		<key>ios-arm64/Gimbal.framework/appledoc.plist</key>
 		<data>
@@ -170,7 +166,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Gimbal</key>
 		<data>
-		5ja6gMPZW/Fq/UpKbrsXl6fsXPM=
+		DqY3ook+sxNmK30O/XbPl40LGeo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Headers/GMBLAnalyticsManager.h</key>
 		<data>
@@ -254,7 +250,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Headers/Gimbal-Swift.h</key>
 		<data>
-		0YNMNo5cOlj7XdkHeQfJ8jheftA=
+		2wAUuX/Wpgx5XSVaWbHBYHibUdE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Headers/Gimbal.h</key>
 		<data>
@@ -262,7 +258,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Info.plist</key>
 		<data>
-		kjllduy0xgcwMz6G6NXNMYJ9Zks=
+		cNE0/UdB+XQjN6wfspBeZSFdeiU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/MainStoryboard.storyboardc/12-view-13.nib</key>
 		<data>
@@ -286,35 +282,51 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/Gimbal.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		7yA9SZXfBeCG6gfLtgUK665AkS4=
+		PGMEywgq0mA5GSoK79hLZmVDUpU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/Gimbal.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ooGgEszvFbixbiJJiqxxDs4LDCk=
+		isFmQLSaUD/Zw1x9r3XKhMMkvHg=
+		</data>
+		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/Gimbal.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface-e</key>
+		<data>
+		q5URiLn6pfXAEyEfY3sUL/NTMXY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/Gimbal.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		5h3CtM3sUAGkiG3kdWY1h2qpPlc=
+		NAYg6Obe8CvBEgJpZr+OzkzCSRw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/Gimbal.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ooGgEszvFbixbiJJiqxxDs4LDCk=
+		isFmQLSaUD/Zw1x9r3XKhMMkvHg=
+		</data>
+		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/Gimbal.swiftmodule/arm64-apple-ios-simulator.swiftinterface-e</key>
+		<data>
+		q5URiLn6pfXAEyEfY3sUL/NTMXY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		7yA9SZXfBeCG6gfLtgUK665AkS4=
+		PGMEywgq0mA5GSoK79hLZmVDUpU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		EkzsD982tJ+s0p8YZlxF4aS7F38=
+		BDidwFRbgDPfeUm6ofyJqeREWrE=
+		</data>
+		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface-e</key>
+		<data>
+		y8yIWRq5D4FOmkMbeRC7TA6jK80=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Di/LuAFgwsmUJBtF1b+h2VGU3A8=
+		4W5FXi9+EbriDkmj1uadw2M8xao=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		EkzsD982tJ+s0p8YZlxF4aS7F38=
+		BDidwFRbgDPfeUm6ofyJqeREWrE=
+		</data>
+		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.swiftinterface-e</key>
+		<data>
+		y8yIWRq5D4FOmkMbeRC7TA6jK80=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/module.modulemap</key>
 		<data>
@@ -324,25 +336,13 @@
 		<data>
 		ETyVTC3qSYRWBGsVZiLBDTPvsV8=
 		</data>
-		<key>ios-arm64_x86_64-simulator/Gimbal.framework/PrivateHeaders/GMBLPlaceManager_Private.h</key>
-		<data>
-		g64ZbP2TQwf868/bs83yJGD+q9w=
-		</data>
-		<key>ios-arm64_x86_64-simulator/Gimbal.framework/PrivateHeaders/GMBLPlaceRepository.h</key>
-		<data>
-		sUoJ0vyZoFCAqng0xDGBuCDbnRM=
-		</data>
-		<key>ios-arm64_x86_64-simulator/Gimbal.framework/PrivateHeaders/QLPolygonCalculator.h</key>
-		<data>
-		9w+e4wJ+1mKo6THZocY/cLjHP+M=
-		</data>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Release.xcconfig</key>
 		<data>
 		AUUr0k3OKT7Qero79yq9wUjxtuw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/_CodeSignature/CodeResources</key>
 		<data>
-		9a+oHE9XDLx58JewY2LtGDJITCA=
+		bash+mpOLIpStQyygu5IOtn0+ok=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/appledoc.plist</key>
 		<data>
@@ -355,11 +355,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Gix4va1pMbPxlgBkKQM+pTq2i7Q=
+			XOzQcz2a6joxNZ9qQjApP4zf0WM=
 			</data>
 			<key>hash2</key>
 			<data>
-			HGrHxFpCklEmLvkYeyyR+E3BrETFqLIi78nUi+0zEoU=
+			UiqNUvMDJVRh8ZZzo8XeS0PmOgvLzBw9SloGWrWWhQ4=
 			</data>
 		</dict>
 		<key>ios-arm64/Gimbal.framework/Headers/GMBLAnalyticsManager.h</key>
@@ -586,11 +586,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VkHOo7ByF1BxCS9FlAbXovwkC64=
+			vRaGW10Y5MRSgL5ixkWZxsWNfVA=
 			</data>
 			<key>hash2</key>
 			<data>
-			EdVZaz8Q164T9wLenCEBQbIG4KsfIsHcls0map5vpdY=
+			daCr9CazYqDur/hqKv/LNUGk1n3N7xhJW59fIVoPGuE=
 			</data>
 		</dict>
 		<key>ios-arm64/Gimbal.framework/Headers/Gimbal.h</key>
@@ -608,11 +608,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8pN1Ot65msAOMrqGuqbjT3tHNjo=
+			zOF390WIIxdyO69dO1qlvjFAx7A=
 			</data>
 			<key>hash2</key>
 			<data>
-			YfS48TU/iMxQL1wUaafUgw5/XlbzlY6swtlW/8zNnjo=
+			3owwBdrMB7rXULw7spTCCfWwk9Ypo+zP9aa8nkGqfQs=
 			</data>
 		</dict>
 		<key>ios-arm64/Gimbal.framework/MainStoryboard.storyboardc/12-view-13.nib</key>
@@ -674,44 +674,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7yA9SZXfBeCG6gfLtgUK665AkS4=
+			PGMEywgq0mA5GSoK79hLZmVDUpU=
 			</data>
 			<key>hash2</key>
 			<data>
-			dRPZz/aw855ioPDqf8SuySOFnTo3hh362J+KxeMVjuU=
+			hPYs9VMkCtY5+pbHRzZfG1ObbABjzaxRLyft8E065kc=
 			</data>
 		</dict>
 		<key>ios-arm64/Gimbal.framework/Modules/Gimbal.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VCEeoq+TltofnPqXCNizhNSqUsI=
+			axEtRXnkYNv5BK4utVtCOcT2lxk=
 			</data>
 			<key>hash2</key>
 			<data>
-			g5SBH7v0jw3+J16tYrk8jdR5MTkpdlHbovC5YDt3m60=
+			IeNayWI4J4D7AsvVn0d2kMP7DTVqrPNBs9rifLvUerk=
+			</data>
+		</dict>
+		<key>ios-arm64/Gimbal.framework/Modules/Gimbal.swiftmodule/arm64-apple-ios.private.swiftinterface-e</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eWOro1yCaMWET7dYjbEE8GZi62s=
+			</data>
+			<key>hash2</key>
+			<data>
+			vlqE7SOKbvzXFyrq9o97H3DvF8Puf/3PJSgmoGdD7Ho=
 			</data>
 		</dict>
 		<key>ios-arm64/Gimbal.framework/Modules/Gimbal.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KQTF6SPeC4jPl6vZimgiA8Ll5VI=
+			J2cfeB5blI5qBzA1llBaybVNPC8=
 			</data>
 			<key>hash2</key>
 			<data>
-			47NemMy7IWoIeehEgzwGj50lnL7oIaMF5MTSkey1K4c=
+			pEHz2KWeOTDiCIIVES4fQi00hQojjTbRMsGWrJ9lEP0=
 			</data>
 		</dict>
 		<key>ios-arm64/Gimbal.framework/Modules/Gimbal.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VCEeoq+TltofnPqXCNizhNSqUsI=
+			axEtRXnkYNv5BK4utVtCOcT2lxk=
 			</data>
 			<key>hash2</key>
 			<data>
-			g5SBH7v0jw3+J16tYrk8jdR5MTkpdlHbovC5YDt3m60=
+			IeNayWI4J4D7AsvVn0d2kMP7DTVqrPNBs9rifLvUerk=
+			</data>
+		</dict>
+		<key>ios-arm64/Gimbal.framework/Modules/Gimbal.swiftmodule/arm64-apple-ios.swiftinterface-e</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eWOro1yCaMWET7dYjbEE8GZi62s=
+			</data>
+			<key>hash2</key>
+			<data>
+			vlqE7SOKbvzXFyrq9o97H3DvF8Puf/3PJSgmoGdD7Ho=
 			</data>
 		</dict>
 		<key>ios-arm64/Gimbal.framework/Modules/module.modulemap</key>
@@ -736,39 +758,6 @@
 			y740zUX1pjFtiX/m+/sjkDL0yilxqazajTEWqPvDGgo=
 			</data>
 		</dict>
-		<key>ios-arm64/Gimbal.framework/PrivateHeaders/GMBLPlaceManager_Private.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			g64ZbP2TQwf868/bs83yJGD+q9w=
-			</data>
-			<key>hash2</key>
-			<data>
-			T12jEv7G90aGHKyPQZi1cc3DH7b80AuERpdCxpVjETQ=
-			</data>
-		</dict>
-		<key>ios-arm64/Gimbal.framework/PrivateHeaders/GMBLPlaceRepository.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			sUoJ0vyZoFCAqng0xDGBuCDbnRM=
-			</data>
-			<key>hash2</key>
-			<data>
-			Mer6dJyeb82bmpwvGmP0CMq9XBINN+KGz9Nt8UyrWXw=
-			</data>
-		</dict>
-		<key>ios-arm64/Gimbal.framework/PrivateHeaders/QLPolygonCalculator.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9w+e4wJ+1mKo6THZocY/cLjHP+M=
-			</data>
-			<key>hash2</key>
-			<data>
-			r4mFrRuHGC78IyCnTqZy0Ii9vGrnRfINigXNz324Zw0=
-			</data>
-		</dict>
 		<key>ios-arm64/Gimbal.framework/Release.xcconfig</key>
 		<dict>
 			<key>hash</key>
@@ -784,11 +773,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Qa2IqtcCXOEj/QBzrLhRFFz2WaU=
+			c7EFS5RJ9Ln+/04PrQuk43eoA14=
 			</data>
 			<key>hash2</key>
 			<data>
-			WVhbJeUG95adipsfeIwLnreVQl6DdPdPjAQx2SBRm4M=
+			Tftz2wF9hkGR1iZwgsVf8x3T5KAMOkJ9COZHSoWbJ64=
 			</data>
 		</dict>
 		<key>ios-arm64/Gimbal.framework/appledoc.plist</key>
@@ -806,11 +795,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5ja6gMPZW/Fq/UpKbrsXl6fsXPM=
+			DqY3ook+sxNmK30O/XbPl40LGeo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ua8JotYjL+fCYPQUBIZ+xwM/26eMT6oKz7nFgEXPk5E=
+			8AhwLaOXbW2gLCaenOy+ib9frerzZBEujPcFHqCkJKY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Headers/GMBLAnalyticsManager.h</key>
@@ -1037,11 +1026,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0YNMNo5cOlj7XdkHeQfJ8jheftA=
+			2wAUuX/Wpgx5XSVaWbHBYHibUdE=
 			</data>
 			<key>hash2</key>
 			<data>
-			GdsevL9XWg2UHxpf5V1S5yRIK2v5oOIZsSKAuc9cT3s=
+			yPAwDI5swyJ7uBdDhMn5ja4/TZhkcOIegyJJLK+qo4c=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Headers/Gimbal.h</key>
@@ -1059,11 +1048,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kjllduy0xgcwMz6G6NXNMYJ9Zks=
+			cNE0/UdB+XQjN6wfspBeZSFdeiU=
 			</data>
 			<key>hash2</key>
 			<data>
-			ySlIQDcH/3tRrVgly163sDWZ6LaAu4qB4Mk33y81n0A=
+			XPsvU7mm5sSOOVUNb39PYfhylZddlX6YpIPZNRECTaQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/MainStoryboard.storyboardc/12-view-13.nib</key>
@@ -1125,88 +1114,132 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7yA9SZXfBeCG6gfLtgUK665AkS4=
+			PGMEywgq0mA5GSoK79hLZmVDUpU=
 			</data>
 			<key>hash2</key>
 			<data>
-			dRPZz/aw855ioPDqf8SuySOFnTo3hh362J+KxeMVjuU=
+			hPYs9VMkCtY5+pbHRzZfG1ObbABjzaxRLyft8E065kc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/Gimbal.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ooGgEszvFbixbiJJiqxxDs4LDCk=
+			isFmQLSaUD/Zw1x9r3XKhMMkvHg=
 			</data>
 			<key>hash2</key>
 			<data>
-			mrLppzgWjy5CMc2gaR8MTUh/oyCW6CTIfha+xOfY/BY=
+			y9wDOu8505dQuYskntdcy8pWIhCTTE9mDxHFRc26jc8=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/Gimbal.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface-e</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q5URiLn6pfXAEyEfY3sUL/NTMXY=
+			</data>
+			<key>hash2</key>
+			<data>
+			316vTPxxDHv9pcUccvhPJbo1DW6QnaW15PIt6vmPKNs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/Gimbal.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5h3CtM3sUAGkiG3kdWY1h2qpPlc=
+			NAYg6Obe8CvBEgJpZr+OzkzCSRw=
 			</data>
 			<key>hash2</key>
 			<data>
-			H8diA5stOlVMhtpCCuvmlKdNfkyqAfb+qtriAUW2FNA=
+			JTexeKvUeRHJOBnD2POWGdYf8//Q7RSgH6g8UUaa0Uc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/Gimbal.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ooGgEszvFbixbiJJiqxxDs4LDCk=
+			isFmQLSaUD/Zw1x9r3XKhMMkvHg=
 			</data>
 			<key>hash2</key>
 			<data>
-			mrLppzgWjy5CMc2gaR8MTUh/oyCW6CTIfha+xOfY/BY=
+			y9wDOu8505dQuYskntdcy8pWIhCTTE9mDxHFRc26jc8=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/Gimbal.swiftmodule/arm64-apple-ios-simulator.swiftinterface-e</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q5URiLn6pfXAEyEfY3sUL/NTMXY=
+			</data>
+			<key>hash2</key>
+			<data>
+			316vTPxxDHv9pcUccvhPJbo1DW6QnaW15PIt6vmPKNs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7yA9SZXfBeCG6gfLtgUK665AkS4=
+			PGMEywgq0mA5GSoK79hLZmVDUpU=
 			</data>
 			<key>hash2</key>
 			<data>
-			dRPZz/aw855ioPDqf8SuySOFnTo3hh362J+KxeMVjuU=
+			hPYs9VMkCtY5+pbHRzZfG1ObbABjzaxRLyft8E065kc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EkzsD982tJ+s0p8YZlxF4aS7F38=
+			BDidwFRbgDPfeUm6ofyJqeREWrE=
 			</data>
 			<key>hash2</key>
 			<data>
-			x6S6+2O7RUt0Py1FnVjnAnb54gN3Gr2jU1pdr4jld0c=
+			pnhLorD3CVTX0SY70vpxnNty52zdaBNU090dnonWR7Y=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface-e</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			y8yIWRq5D4FOmkMbeRC7TA6jK80=
+			</data>
+			<key>hash2</key>
+			<data>
+			rNPVabETFfH6Y9ox/6CUeA03/4UcTu2dwxzEpN4aews=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Di/LuAFgwsmUJBtF1b+h2VGU3A8=
+			4W5FXi9+EbriDkmj1uadw2M8xao=
 			</data>
 			<key>hash2</key>
 			<data>
-			feVQgaix2YLniH/+OLtbDQEluR/ioO8MG3TDX9nS5AY=
+			2S7MmhP3RGoFcx46R5J0RIWpG/YD1TRA6bIxg0Dicmw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EkzsD982tJ+s0p8YZlxF4aS7F38=
+			BDidwFRbgDPfeUm6ofyJqeREWrE=
 			</data>
 			<key>hash2</key>
 			<data>
-			x6S6+2O7RUt0Py1FnVjnAnb54gN3Gr2jU1pdr4jld0c=
+			pnhLorD3CVTX0SY70vpxnNty52zdaBNU090dnonWR7Y=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/Gimbal.swiftmodule/x86_64-apple-ios-simulator.swiftinterface-e</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			y8yIWRq5D4FOmkMbeRC7TA6jK80=
+			</data>
+			<key>hash2</key>
+			<data>
+			rNPVabETFfH6Y9ox/6CUeA03/4UcTu2dwxzEpN4aews=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Modules/module.modulemap</key>
@@ -1231,39 +1264,6 @@
 			y740zUX1pjFtiX/m+/sjkDL0yilxqazajTEWqPvDGgo=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/Gimbal.framework/PrivateHeaders/GMBLPlaceManager_Private.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			g64ZbP2TQwf868/bs83yJGD+q9w=
-			</data>
-			<key>hash2</key>
-			<data>
-			T12jEv7G90aGHKyPQZi1cc3DH7b80AuERpdCxpVjETQ=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/Gimbal.framework/PrivateHeaders/GMBLPlaceRepository.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			sUoJ0vyZoFCAqng0xDGBuCDbnRM=
-			</data>
-			<key>hash2</key>
-			<data>
-			Mer6dJyeb82bmpwvGmP0CMq9XBINN+KGz9Nt8UyrWXw=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/Gimbal.framework/PrivateHeaders/QLPolygonCalculator.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9w+e4wJ+1mKo6THZocY/cLjHP+M=
-			</data>
-			<key>hash2</key>
-			<data>
-			r4mFrRuHGC78IyCnTqZy0Ii9vGrnRfINigXNz324Zw0=
-			</data>
-		</dict>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/Release.xcconfig</key>
 		<dict>
 			<key>hash</key>
@@ -1279,11 +1279,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9a+oHE9XDLx58JewY2LtGDJITCA=
+			bash+mpOLIpStQyygu5IOtn0+ok=
 			</data>
 			<key>hash2</key>
 			<data>
-			8hgf8XYBklZUYDP4+Zk1AavcYgQHunyyjOc8yXCYDgw=
+			ZgY1PKhwOg8VWmen24U/7b9JRHab+QUoM4HlyWc8Qso=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Gimbal.framework/appledoc.plist</key>
