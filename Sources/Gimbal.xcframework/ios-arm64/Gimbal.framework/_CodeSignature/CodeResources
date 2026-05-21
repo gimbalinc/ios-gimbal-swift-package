@@ -86,7 +86,7 @@
 		</data>
 		<key>Headers/Gimbal-Swift.h</key>
 		<data>
-		vRaGW10Y5MRSgL5ixkWZxsWNfVA=
+		x3h2fazHTKEmQcxNfVxwZwyFOX8=
 		</data>
 		<key>Headers/Gimbal.h</key>
 		<data>
@@ -94,47 +94,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zOF390WIIxdyO69dO1qlvjFAx7A=
-		</data>
-		<key>MainStoryboard.storyboardc/12-view-13.nib</key>
-		<data>
-		uSvqIPDvC9ky35iJoLIQ0snww38=
-		</data>
-		<key>MainStoryboard.storyboardc/21-view-22.nib</key>
-		<data>
-		VaIuzwP1FwFWW5zst0y5Y0qffTI=
-		</data>
-		<key>MainStoryboard.storyboardc/Info.plist</key>
-		<data>
-		k+BS7zA58qCgIbc02NLP197pyNw=
-		</data>
-		<key>MainStoryboard.storyboardc/UINavigationController-3.nib</key>
-		<data>
-		pq2Z9CJI4KmFOsNe/QH3IuZcMkQ=
-		</data>
-		<key>MainStoryboard.storyboardc/UIViewController-21.nib</key>
-		<data>
-		PGmLBbGvKxymJtlsuShlBLkPulo=
+		rpOsT+bkL2xFKJLwwNxx9xtNJI0=
 		</data>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		PGMEywgq0mA5GSoK79hLZmVDUpU=
+		G4ncpz6sq4JAu3xX/O6eHvFHxag=
 		</data>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		eWOro1yCaMWET7dYjbEE8GZi62s=
+		BgxCautF+gLMO2Jxod2NnaErf2s=
 		</data>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		J2cfeB5blI5qBzA1llBaybVNPC8=
+		Fo7AleGuzwlIMLQg/b3fFdObHrM=
 		</data>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		eWOro1yCaMWET7dYjbEE8GZi62s=
+		BgxCautF+gLMO2Jxod2NnaErf2s=
 		</data>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		TjsSrOrDrq+ar/+HsB0eQfBotiU=
+		SjYM5tdfPYrSlOgBaEYCoOZpcFo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -142,7 +122,7 @@
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
-		ETyVTC3qSYRWBGsVZiLBDTPvsV8=
+		olMJnIkqnjC2ik3+AP52rWnA1sc=
 		</data>
 		<key>PrivateHeaders/GMBLPlaceManager_Private.h</key>
 		<data>
@@ -311,7 +291,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			daCr9CazYqDur/hqKv/LNUGk1n3N7xhJW59fIVoPGuE=
+			rhtORWUeAsoyKzd6xsuOQCWzEi1qCzZX3uO980fmw0g=
 			</data>
 		</dict>
 		<key>Headers/Gimbal.h</key>
@@ -321,74 +301,39 @@
 			N32LVUjLVMcsVAZu9mk0cxHSmO5NzKhaswTSKBuwrcs=
 			</data>
 		</dict>
-		<key>MainStoryboard.storyboardc/12-view-13.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			w/ucdS6IK//izDvOmGTesqzFbt/wzwCz5QMVt0tLlx8=
-			</data>
-		</dict>
-		<key>MainStoryboard.storyboardc/21-view-22.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MNZd4vVplRSozChh11wHP7mK7Su9uDQuosbqSueVHEA=
-			</data>
-		</dict>
-		<key>MainStoryboard.storyboardc/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			q0/ZZn3yg4nieWdP0Xa/1e/G2TxyK4NukTdsEwEV+co=
-			</data>
-		</dict>
-		<key>MainStoryboard.storyboardc/UINavigationController-3.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IwTUJPPMh7SEQaRWZf7y13vcto9n/EgYbjXOZ/RErJE=
-			</data>
-		</dict>
-		<key>MainStoryboard.storyboardc/UIViewController-21.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7wDYVFL7SHXhtOLYXEkfLv60LCra740uZcn1QUMc9jI=
-			</data>
-		</dict>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hPYs9VMkCtY5+pbHRzZfG1ObbABjzaxRLyft8E065kc=
+			Y/HUxOGeTYTAQ4C46ZX44lEr3plHtp3lVB5lkovcf5A=
 			</data>
 		</dict>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vlqE7SOKbvzXFyrq9o97H3DvF8Puf/3PJSgmoGdD7Ho=
+			OfG5ik/FAxhWjc7f5Y9HHKOW0EC9c4L5oMf67dtzvNQ=
 			</data>
 		</dict>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pEHz2KWeOTDiCIIVES4fQi00hQojjTbRMsGWrJ9lEP0=
+			ajnxFH6YOcA0SO2aExdkEVZYIbHJ5nomXccpIxlsQBo=
 			</data>
 		</dict>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vlqE7SOKbvzXFyrq9o97H3DvF8Puf/3PJSgmoGdD7Ho=
+			OfG5ik/FAxhWjc7f5Y9HHKOW0EC9c4L5oMf67dtzvNQ=
 			</data>
 		</dict>
 		<key>Modules/Gimbal.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CPYlY7pcqz4eb/gXIrHs/HeRp9H0qeF3cyv65f59fSo=
+			tUDBqZHy9457Oxv4pTU3MH8UYShlysBUZYfB2FoI/TY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -402,7 +347,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			y740zUX1pjFtiX/m+/sjkDL0yilxqazajTEWqPvDGgo=
+			0g31mellpv8d77+UXGypzEjsz8pCCsLGUiA+S+IbYY4=
 			</data>
 		</dict>
 		<key>PrivateHeaders/GMBLPlaceManager_Private.h</key>
